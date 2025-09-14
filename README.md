@@ -13,7 +13,7 @@
 
 
 HOW TO PLAY 
-- In order to play you must go to https://cpulator.01xz.net/?sys=rv32-de1soc and switch the language to C. You must then input the file.
+- In order to play you must go to https://cpulator.01xz.net/?sys=rv32-de1soc and switch the language to C(next to the compile and load button). You must then input the file.
 - From there click compile and load, then continue. A small window will pop up on the right to which you can ajust the size, this  is the screen.
 - to play the game you must scroll down the right hand side of the window until you see the FIFO headers. Then click the 'type here' text box
 - the first FIFO is to control Watergirl with WASD and the second it to control Fireboy with the arrow keys.
