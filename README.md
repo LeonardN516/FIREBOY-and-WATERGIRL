@@ -17,4 +17,4 @@ HOW TO PLAY
 - From there click compile and load, then continue. A small window will pop up on the right to which you can ajust the size, this  is the screen.
 - to play the game you must scroll down the right hand side of the window until you see the FIFO headers. Then click the 'type here' text box
 - the first FIFO is to control Watergirl with WASD and the second it to control Fireboy with the arrow keys.
-- lastly, in order to start click space in any fifo to start and to resrats click restart and continue form the buttons near the top of the window
+- lastly, in order to start click space in any fifo to start and to restart click restart and continue from the buttons near the top of the window
