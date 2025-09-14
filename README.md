@@ -1,8 +1,8 @@
 # FIREBOY-and-WATERGIRL
 
-- created a copy of Fireboy and Watergirl game in Nios-5 assembly C code.
-- utilized VGA buffers and FPGA connections(speakers and keyboard)
-- created an interactive map using pixle arrays 
+- Created a copy of Fireboy and Watergirl game in Nios-5 assembly C code.
+- Ctilized VGA buffers and FPGA connections(speakers and keyboard)
+- Created an interactive map using pixle arrays 
 
 
 
